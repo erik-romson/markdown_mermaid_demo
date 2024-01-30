@@ -8,3 +8,10 @@ graph LR
     C --> E[End]
     D --> E
 ```
+
+```
+ mmdc -i  graph.mmd -o graph.mmd.svg -b white    
+```
+
+
+![graph.mmd.svg](graph.mmd.svg)
